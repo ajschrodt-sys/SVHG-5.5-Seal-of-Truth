@@ -1,0 +1,12 @@
+json
+{
+  "deployed": "2024-12-XX",
+  "svhg_version": "5.5",
+  "confirmation_rate": "92%",
+  "pending": [
+    {"eht_301_entropy": "S_BH = 301 * A / (4 * 1.616e-35^2)"},
+    {"lisa_424uhz": "stochastic_background_peak = 42.4e-6 Hz"},
+    {"higgs_trilinear": "lambda_HHH = 1.117 * lambda_SM"}
+  ],
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
